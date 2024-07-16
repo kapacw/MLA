@@ -1,0 +1,254 @@
+#card{
+    position: absolute;
+    background-color: #1D2023;
+    width: 1280px;
+    height: 750px;
+}
+
+.cor1{
+    background-color: #262B32;
+}
+
+.tittle{
+    width: 100%;
+    height: 76px;
+    box-shadow: #262B32;
+}
+
+.letraTitulo{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 36px;
+    opacity: 25%;
+    left: 137px;
+    bottom: 19px;
+    top: 19px;
+    right: 721px;
+}
+
+#logo{
+    width: 79px;
+    height: 70px;
+    position: absolute;
+    left: 16px;
+    right: 1185px;
+    bottom: 5px;
+    top: 5px;
+}
+
+#linha1{
+    position: absolute;
+    left: 113px;
+    bottom: 16px;
+    top: 16px;
+}
+
+.quadrado{
+    position: absolute;
+    top: 16px;
+    width: 48px;
+    height: 48px;
+    background-color: #30373E;
+    margin-right: 15px;
+    border-radius: 5px;
+    box-shadow: #1D2023;
+}
+
+.qd1{
+    position: absolute;
+    left: 1073px;
+}
+
+.qd2{
+    position: absolute;
+    left: 1136px;
+}
+
+.qd3{
+    position: absolute;
+    left: 1200px;
+}
+
+#lupa{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+
+#sino{
+    position: absolute;
+    top: 10px;
+    left: 12px;
+}
+
+#foto{
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
+
+#casa{
+    position: absolute;
+    background-color: #1D2023;
+    width: 1216px;
+    height: 80px;
+    left: 37px;
+    right: 27px;
+    top: 76px;
+    bottom: 594px;
+}
+
+#imagemCasa{
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 0px;
+    top: 27px;
+    bottom: 27px;
+}
+
+#sectionGC{
+    position: absolute;
+    background-color: #1D2023;
+    width: 228px;
+    height: 529px;
+    top: 156px;
+    left: 37px;
+}
+
+#geracao{
+    color: #FFFFFF;
+    font-family:"Roboto";
+    font-size: 20px;
+    opacity: 60%;
+}
+
+.quadradoCinza{
+    position: absolute;
+    background-color: #30373E;
+    width: 228px;
+    height: 80px;
+    border-radius: 5px;
+    box-shadow: #1D2023;
+}
+
+.ultimas24{
+    position: absolute;
+    top: 39px;
+}
+
+.ultimos30d{
+    position: absolute;
+    top: 153px;
+}
+
+.ultimo{
+    position: absolute;
+    left: 22px;
+    top: 15px;
+    color:#FFFFFF;
+    font-family:"Roboto";
+    font-size: 14px;
+    opacity: 30%;
+}
+
+.numero{
+    position: absolute;
+    left: 22px;
+    top: 37px;
+    color:#FFFFFF;
+    font-family:"Roboto";
+    font-size: 20px;
+    opacity: 87%;
+}
+
+.medida1{
+    position: absolute;
+    left: 81px;
+    top: 37px;
+    color:#FFFFFF;
+    font-family:"Roboto";
+    font-size: 20px;
+    opacity: 60%;
+}
+
+.medida2{
+    position: absolute;
+    left: 58px;
+    top: 37px;
+    color:#FFFFFF;
+    font-family:"Roboto";
+    font-size: 20px;
+    opacity: 60%;
+}
+
+#consumo{
+    position: absolute;
+    top: 277px;
+    color: #FFFFFF;
+    font-family:"Roboto";
+    font-size: 20px;
+    opacity: 60%;
+}
+
+#divisoriaGrande1{
+    position: absolute;
+    left: 260px;
+    top: 160px;
+}
+
+#mapaP{
+    position: absolute;
+    left: 313px;
+    top: 156px;
+}
+
+#divisoriaGrande2{
+    position: absolute;
+    left: 1053px;
+    top: 156px;
+}
+
+#municipio{
+    position: absolute;
+    left: 1100px;
+    top: 155px;
+    color:#FFFFFF;
+    font-family:"Roboto";
+    font-size: 24px;
+    opacity: 30%;
+}
+
+#cidades{
+    position: absolute;
+    background-color: #262B32;
+    left: 1101px;
+    top: 204px;
+    width: 152px;
+    height: 326px;
+    border-radius: 5px;
+}
+
+#listas{
+    position: absolute;
+    right: 40px;
+}
+
+ul{
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 12px;
+    opacity: 90%;
+    list-style: none;
+}
+
+li{
+    margin-top: 16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: #30373E;
+    text-align: center;
+    border-radius: 5px;
+}
